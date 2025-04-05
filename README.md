@@ -9,4 +9,55 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you are developing a production application, we recommend using TypeScript and enabling type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Installation  
+
+1️⃣ **Required path**  
+```bash
+cd YumYeild
+```
+```bash
+cd Backend
+```
+2️⃣ **Install required packages:**  
+```bash
+pip install uvicorn
+```
+
+```bash
+pip install python-dotenv
+```
+
+```bash
+pip install fastapi
+```
+
+```bash
+pip install fastapi
+```
+
+```bash
+pip install pydantic uvicorn
+```
+
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+```
+
+**NOW RUN THE FRONTEND**
+
+```bash
+npm run dev
+```
+
+## ⚙️ Configuration  
+👉 Add these to your PATH:
+
+C:\Users\NIKHIL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts
+
+C:\Users\NIKHIL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311
+
+
+
+
